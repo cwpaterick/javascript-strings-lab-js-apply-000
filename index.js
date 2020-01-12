@@ -6,6 +6,5 @@ var greetSpecialGuest = "" + specialGuest + "!";
 
 var topic = "space";
 
-var conversation = `${topic}`;
-(in tests/index-test.js)
+var conversation = `${topic}`;z
 
